@@ -1,1 +1,9 @@
 http://100.26.44.17/#/templates/job_template/10?template_search=page_size:20;order_by:name;type:workflow_job_template,job_template
+
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACAXQku5VBLWhTXGvL7Z5sG9QhCEuYYFuGypi722y9FiGAAAAKC5fWw8uX1s
+PAAAAAtzc2gtZWQyNTUxOQAAACAXQku5VBLWhTXGvL7Z5sG9QhCEuYYFuGypi722y9FiGA
+AAAEAYsRFyIHZTQrkdl2rBdWxTVIt0tkurWb4XnR4mE9dW5RdCS7lUEtaFNca8vtnmwb1C
+EIS5hgW4bKmLvbbL0WIYAAAAGXNzaC1rZXkgdG8gYWNjZXNzIHNlcnZlcnMBAgME
+-----END OPENSSH PRIVATE KEY-----
